@@ -1,3 +1,14 @@
 img {
     width: 300px;
 }
+h1 {
+    color: black;
+}
+.color-aqua {
+    color: aqua;
+}
+
+.back-red {
+    background-color: red;
+}
+
