@@ -38,14 +38,19 @@ header {
     background: #f7fff7;
 }
 .projects a {
+    color: #2f3061;
+}
+.projects .btn {
     color: #f7fff7;
     background: #2f3061;
     text-decoration: none;
     padding: 8px;
     border-radius: 8px;
 }
-.projects a:hover {
-    background: rgba(47, 48, 97, 80%);
+.projects .btn:hover {
+    /* Use rgba or directly specify the opacity */
+    /* background: rgba(47, 48, 97, 50%); */
+    opacity: 50%;
 }
 
 /* Work Experience
